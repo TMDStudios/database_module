@@ -34,8 +34,3 @@ def get_users(connection):
 
 def close_connection(connection):
     connection.close()
-
-
-# conn = connect()
-# get_users(conn)
-# close_connection(conn)
